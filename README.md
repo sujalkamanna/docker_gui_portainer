@@ -2,8 +2,7 @@
 
 ## Project Overview
 
-Installation and management of Docker Engine and Portainer CE
-on an AWS EC2 Ubuntu server.
+Installation and management of Docker Engine and Portainer CE on an AWS EC2 Ubuntu server.
 
 ## Infrastructure
 
